@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Pattern</string>
+    <string name="buttonText">Display Course</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">Computer Science Online Courses</string>
+    <string name="description"></string>
+</resources>
